@@ -1,8 +1,8 @@
 // Properties
-max_speed = 3;			// Max speed the player can move.
+max_speed = 2;			// Max speed the player can move.
 speed_inc = 2;			// Rate speed increases at.
 
-dash_addition = 5;		// Amount added to max speed when dashing.
+dash_addition = 2;		// Amount added to max speed when dashing.
 dash_timer_max = 15;	// Length of a dash in frames.
 
 // Movement

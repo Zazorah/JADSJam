@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_NPCSolid",
-    "path": "sprites/spr_NPCSolid/spr_NPCSolid.yy",
+    "name": "spr_Player_Idle",
+    "path": "sprites/spr_Player_Idle/spr_Player_Idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

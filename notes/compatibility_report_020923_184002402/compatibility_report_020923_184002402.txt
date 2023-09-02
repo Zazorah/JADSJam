@@ -1,0 +1,18 @@
+Converting GML script: C:\Users\Zaz Dev\AppData\Local\GameMakerStudio2\GMS2TEMP\com.diestware.transitions_39a7bbee\mvc\conv\1478140519_Wipe_Transitions_68dbe855\mvc\scripts\transition\transition.gml
+Converted description /// @description transition(sprite);/// @param sprite
+
+Converting GML script: C:\Users\Zaz Dev\AppData\Local\GameMakerStudio2\GMS2TEMP\com.diestware.transitions_39a7bbee\mvc\conv\1478140519_Wipe_Transitions_68dbe855\mvc\objects\README\Create_0.gml
+Converted description /// @description HOW TO USE
+
+Converting GML script: C:\Users\Zaz Dev\AppData\Local\GameMakerStudio2\GMS2TEMP\com.diestware.transitions_39a7bbee\mvc\conv\1478140519_Wipe_Transitions_68dbe855\mvc\objects\obj_transition\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: C:\Users\Zaz Dev\AppData\Local\GameMakerStudio2\GMS2TEMP\com.diestware.transitions_39a7bbee\mvc\conv\1478140519_Wipe_Transitions_68dbe855\mvc\objects\obj_transition_manager\Create_0.gml
+Converted description /// @description Transition
+
+Converting GML script: C:\Users\Zaz Dev\AppData\Local\GameMakerStudio2\GMS2TEMP\com.diestware.transitions_39a7bbee\mvc\conv\1478140519_Wipe_Transitions_68dbe855\mvc\objects\obj_transition_manager\Step_0.gml
+Converted description /// @description Done
+
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
