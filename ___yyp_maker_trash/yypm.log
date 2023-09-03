@@ -1,0 +1,1462 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[02-09-2023 21:05:33] Initialized GameMaker Project: JADSJam.yyp
+[02-09-2023 21:05:33] Found datafile: fnt_gossip_default.yy
+[02-09-2023 21:05:33] Found datafile: Dialogue_Sheet_1.csv
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/animcurves
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/extensions
+[02-09-2023 21:05:33] Checking Wipe_Transitions
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/extensions/Wipe_Transitions
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/extensions/Wipe_Transitions
+[02-09-2023 21:05:33] Checking Wipe_Transitions.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/extensions/Wipe_Transitions/Wipe_Transitions.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/extensions/Wipe_Transitions/Wipe_Transitions.yy
+[02-09-2023 21:05:33] Par: "folders/Extensions" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/extensions/Wipe_Transitions/Wipe_Transitions.yy"
+[02-09-2023 21:05:33] Found Extension: Wipe_Transitions
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts
+[02-09-2023 21:05:33] Checking fnt_UI_Small
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Small
+[02-09-2023 21:05:33] Checking fnt_UI_Med
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Med
+[02-09-2023 21:05:33] Checking fnt_UI_Large
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Large
+[02-09-2023 21:05:33] Checking fnt_gossip_default
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_gossip_default
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_gossip_default
+[02-09-2023 21:05:33] Checking fnt_gossip_default.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_gossip_default/fnt_gossip_default.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_gossip_default/fnt_gossip_default.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Fonts" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_gossip_default/fnt_gossip_default.yy"
+[02-09-2023 21:05:33] Found Font: fnt_gossip_default
+[02-09-2023 21:05:33] Checking fnt_gossip_default.png
+[02-09-2023 21:05:33] Checking fnt_gossip_default.old.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Large
+[02-09-2023 21:05:33] Checking fnt_UI_Small.png
+[02-09-2023 21:05:33] Checking fnt_UI_Small.old.png
+[02-09-2023 21:05:33] Checking fnt_UI_Med.png
+[02-09-2023 21:05:33] Checking fnt_UI_Large.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Large/fnt_UI_Large.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Large/fnt_UI_Large.yy
+[02-09-2023 21:05:33] Par: "folders/Fonts" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Large/fnt_UI_Large.yy"
+[02-09-2023 21:05:33] Found Font: fnt_UI_Large
+[02-09-2023 21:05:33] Checking fnt_UI_Large.png
+[02-09-2023 21:05:33] Checking fnt_UI_Large.old.png
+[02-09-2023 21:05:33] Checking ChevyRay - Classified.ttf
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Med
+[02-09-2023 21:05:33] Checking fnt_UI_Small.png
+[02-09-2023 21:05:33] Checking fnt_UI_Small.old.png
+[02-09-2023 21:05:33] Checking fnt_UI_Med.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Med/fnt_UI_Med.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Med/fnt_UI_Med.yy
+[02-09-2023 21:05:33] Par: "folders/Fonts" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Med/fnt_UI_Med.yy"
+[02-09-2023 21:05:33] Found Font: fnt_UI_Med
+[02-09-2023 21:05:33] Checking fnt_UI_Med.png
+[02-09-2023 21:05:33] Checking fnt_UI_Med.old.png
+[02-09-2023 21:05:33] Checking ChevyRay - Classified.ttf
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Small
+[02-09-2023 21:05:33] Checking fnt_UI_Small.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Small/fnt_UI_Small.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Small/fnt_UI_Small.yy
+[02-09-2023 21:05:33] Par: "folders/Fonts" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/fonts/fnt_UI_Small/fnt_UI_Small.yy"
+[02-09-2023 21:05:33] Found Font: fnt_UI_Small
+[02-09-2023 21:05:33] Checking fnt_UI_Small.png
+[02-09-2023 21:05:33] Checking fnt_UI_Small.old.png
+[02-09-2023 21:05:33] Checking ChevyRay - Classified.ttf
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes
+[02-09-2023 21:05:33] Checking Text_Formatting
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Text_Formatting
+[02-09-2023 21:05:33] Checking scribble_Methods
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/scribble_Methods
+[02-09-2023 21:05:33] Checking MSDF_Guide
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/MSDF_Guide
+[02-09-2023 21:05:33] Checking Methods_Quick_Reference
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Methods_Quick_Reference
+[02-09-2023 21:05:33] Checking compatibility_report_020923_184002402
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/compatibility_report_020923_184002402
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/compatibility_report_020923_184002402
+[02-09-2023 21:05:33] Checking compatibility_report_020923_184002402.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/compatibility_report_020923_184002402/compatibility_report_020923_184002402.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/compatibility_report_020923_184002402/compatibility_report_020923_184002402.yy
+[02-09-2023 21:05:33] Par: "folders/Notes" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/compatibility_report_020923_184002402/compatibility_report_020923_184002402.yy"
+[02-09-2023 21:05:33] Found Note: compatibility_report_020923_184002402
+[02-09-2023 21:05:33] Checking compatibility_report_020923_184002402.txt
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Methods_Quick_Reference
+[02-09-2023 21:05:33] Checking Methods_Quick_Reference.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Methods_Quick_Reference/Methods_Quick_Reference.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Methods_Quick_Reference/Methods_Quick_Reference.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Methods_Quick_Reference/Methods_Quick_Reference.yy"
+[02-09-2023 21:05:33] Found Note: Methods_Quick_Reference
+[02-09-2023 21:05:33] Checking Methods_Quick_Reference.txt
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/MSDF_Guide
+[02-09-2023 21:05:33] Checking MSDF_Guide.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/MSDF_Guide/MSDF_Guide.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/MSDF_Guide/MSDF_Guide.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/MSDF_Guide/MSDF_Guide.yy"
+[02-09-2023 21:05:33] Found Note: MSDF_Guide
+[02-09-2023 21:05:33] Checking MSDF_Guide.txt
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/scribble_Methods
+[02-09-2023 21:05:33] Checking scribble_Methods.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/scribble_Methods/scribble_Methods.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/scribble_Methods/scribble_Methods.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/scribble_Methods/scribble_Methods.yy"
+[02-09-2023 21:05:33] Found Note: scribble_Methods
+[02-09-2023 21:05:33] Checking scribble_Methods.txt
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Text_Formatting
+[02-09-2023 21:05:33] Checking Text_Formatting.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Text_Formatting/Text_Formatting.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Text_Formatting/Text_Formatting.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/notes/Text_Formatting/Text_Formatting.yy"
+[02-09-2023 21:05:33] Found Note: Text_Formatting
+[02-09-2023 21:05:33] Checking Text_Formatting.txt
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects
+[02-09-2023 21:05:33] Checking par_Solid
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Solid
+[02-09-2023 21:05:33] Checking par_NPC
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_NPC
+[02-09-2023 21:05:33] Checking par_Character
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Character
+[02-09-2023 21:05:33] Checking obj_UI_NPCText
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_NPCText
+[02-09-2023 21:05:33] Checking obj_UI_InfoText
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_InfoText
+[02-09-2023 21:05:33] Checking obj_transition_manager
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition_manager
+[02-09-2023 21:05:33] Checking obj_transition
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition
+[02-09-2023 21:05:33] Checking obj_Player
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Player
+[02-09-2023 21:05:33] Checking obj_gossip_test
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip_test
+[02-09-2023 21:05:33] Checking obj_gossip
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip
+[02-09-2023 21:05:33] Checking obj_Gordon
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Gordon
+[02-09-2023 21:05:33] Checking obj_Game
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Game
+[02-09-2023 21:05:33] Checking obj_Camera
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Camera
+[02-09-2023 21:05:33] Checking obj_Bounds
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Bounds
+[02-09-2023 21:05:33] Checking obj_AfterImage
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_AfterImage
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_AfterImage
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_AfterImage.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_AfterImage/obj_AfterImage.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_AfterImage/obj_AfterImage.yy
+[02-09-2023 21:05:33] Par: "folders/Objects" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_AfterImage/obj_AfterImage.yy"
+[02-09-2023 21:05:33] Found Object: obj_AfterImage
+[02-09-2023 21:05:33] Checking Draw_0.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Bounds
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_Bounds.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Bounds/obj_Bounds.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Bounds/obj_Bounds.yy
+[02-09-2023 21:05:33] Par: "folders/Objects" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Bounds/obj_Bounds.yy"
+[02-09-2023 21:05:33] Found Object: obj_Bounds
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Camera
+[02-09-2023 21:05:33] Checking Step_2.gml
+[02-09-2023 21:05:33] Checking Step_1.gml
+[02-09-2023 21:05:33] Checking Other_4.gml
+[02-09-2023 21:05:33] Checking obj_Camera.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Camera/obj_Camera.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Camera/obj_Camera.yy
+[02-09-2023 21:05:33] Par: "folders/Objects" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Camera/obj_Camera.yy"
+[02-09-2023 21:05:33] Found Object: obj_Camera
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Checking Alarm_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Game
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking Other_4.gml
+[02-09-2023 21:05:33] Checking obj_Game.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Game/obj_Game.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Game/obj_Game.yy
+[02-09-2023 21:05:33] Par: "folders/Objects" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Game/obj_Game.yy"
+[02-09-2023 21:05:33] Found Object: obj_Game
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Gordon
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_Gordon.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Gordon/obj_Gordon.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Gordon/obj_Gordon.yy
+[02-09-2023 21:05:33] Par: "folders/Objects/Debug" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Gordon/obj_Gordon.yy"
+[02-09-2023 21:05:33] Found Object: obj_Gordon
+[02-09-2023 21:05:33] Checking Draw_0.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_gossip.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip/obj_gossip.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip/obj_gossip.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip/obj_gossip.yy"
+[02-09-2023 21:05:33] Found Object: obj_gossip
+[02-09-2023 21:05:33] Checking Draw_64.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip_test
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_gossip_test.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip_test/obj_gossip_test.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip_test/obj_gossip_test.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Objects/Test" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_gossip_test/obj_gossip_test.yy"
+[02-09-2023 21:05:33] Found Object: obj_gossip_test
+[02-09-2023 21:05:33] Checking Draw_64.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Player
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_Player.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Player/obj_Player.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Player/obj_Player.yy
+[02-09-2023 21:05:33] Par: "folders/Objects/Characters" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_Player/obj_Player.yy"
+[02-09-2023 21:05:33] Found Object: obj_Player
+[02-09-2023 21:05:33] Checking Draw_0.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_transition.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition/obj_transition.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition/obj_transition.yy
+[02-09-2023 21:05:33] Par: "folders/Objects/Transition" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition/obj_transition.yy"
+[02-09-2023 21:05:33] Found Object: obj_transition
+[02-09-2023 21:05:33] Checking Draw_64.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition_manager
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_transition_manager.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition_manager/obj_transition_manager.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition_manager/obj_transition_manager.yy
+[02-09-2023 21:05:33] Par: "folders/Objects/Transition" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_transition_manager/obj_transition_manager.yy"
+[02-09-2023 21:05:33] Found Object: obj_transition_manager
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_InfoText
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_UI_InfoText.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_InfoText/obj_UI_InfoText.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_InfoText/obj_UI_InfoText.yy
+[02-09-2023 21:05:33] Par: "folders/Objects" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_InfoText/obj_UI_InfoText.yy"
+[02-09-2023 21:05:33] Found Object: obj_UI_InfoText
+[02-09-2023 21:05:33] Checking Draw_64.gml
+[02-09-2023 21:05:33] Checking Destroy_0.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_NPCText
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking obj_UI_NPCText.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_NPCText/obj_UI_NPCText.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_NPCText/obj_UI_NPCText.yy
+[02-09-2023 21:05:33] Par: "folders/Objects" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/obj_UI_NPCText/obj_UI_NPCText.yy"
+[02-09-2023 21:05:33] Found Object: obj_UI_NPCText
+[02-09-2023 21:05:33] Checking Draw_0.gml
+[02-09-2023 21:05:33] Checking Destroy_0.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Character
+[02-09-2023 21:05:33] Checking par_Character.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Character/par_Character.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Character/par_Character.yy
+[02-09-2023 21:05:33] Par: "folders/Objects/Characters" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Character/par_Character.yy"
+[02-09-2023 21:05:33] Found Object: par_Character
+[02-09-2023 21:05:33] Checking Draw_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_NPC
+[02-09-2023 21:05:33] Checking Step_0.gml
+[02-09-2023 21:05:33] Checking par_NPC.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_NPC/par_NPC.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_NPC/par_NPC.yy
+[02-09-2023 21:05:33] Par: "folders/Objects/Characters" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_NPC/par_NPC.yy"
+[02-09-2023 21:05:33] Found Object: par_NPC
+[02-09-2023 21:05:33] Checking Draw_0.gml
+[02-09-2023 21:05:33] Checking Create_0.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Solid
+[02-09-2023 21:05:33] Checking par_Solid.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Solid/par_Solid.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Solid/par_Solid.yy
+[02-09-2023 21:05:33] Par: "folders/Objects" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/objects/par_Solid/par_Solid.yy"
+[02-09-2023 21:05:33] Found Object: par_Solid
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options
+[02-09-2023 21:05:33] Checking windows
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/windows
+[02-09-2023 21:05:33] Checking tvos
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/tvos
+[02-09-2023 21:05:33] Checking operagx
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/operagx
+[02-09-2023 21:05:33] Checking main
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/main
+[02-09-2023 21:05:33] Checking mac
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/mac
+[02-09-2023 21:05:33] Checking linux
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/linux
+[02-09-2023 21:05:33] Checking ios
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/ios
+[02-09-2023 21:05:33] Checking extensions
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/extensions
+[02-09-2023 21:05:33] Checking android
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/android
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/android
+[02-09-2023 21:05:33] Checking options_android.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/android/options_android.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/android/options_android.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/extensions
+[02-09-2023 21:05:33] Checking Wipe_Transitions.json
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/ios
+[02-09-2023 21:05:33] Checking options_ios.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/ios/options_ios.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/ios/options_ios.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/linux
+[02-09-2023 21:05:33] Checking options_linux.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/linux/options_linux.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/linux/options_linux.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/mac
+[02-09-2023 21:05:33] Checking options_mac.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/mac/options_mac.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/mac/options_mac.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/main
+[02-09-2023 21:05:33] Checking options_main.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/main/options_main.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/main/options_main.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/operagx
+[02-09-2023 21:05:33] Checking options_operagx.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/operagx/options_operagx.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/operagx/options_operagx.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/tvos
+[02-09-2023 21:05:33] Checking options_tvos.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/tvos/options_tvos.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/tvos/options_tvos.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/windows
+[02-09-2023 21:05:33] Checking options_windows.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/windows/options_windows.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/options/windows/options_windows.yy
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/paths
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms
+[02-09-2023 21:05:33] Checking rm_Launch
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_Launch
+[02-09-2023 21:05:33] Checking rm_gossip_test_1
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_gossip_test_1
+[02-09-2023 21:05:33] Checking rm_001
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_001
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_001
+[02-09-2023 21:05:33] Checking rm_001.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_001/rm_001.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_001/rm_001.yy
+[02-09-2023 21:05:33] Par: "folders/Rooms" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_001/rm_001.yy"
+[02-09-2023 21:05:33] Found Room: rm_001
+[02-09-2023 21:05:33] Checking InstanceCreationCode_inst_4199DD13.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_gossip_test_1
+[02-09-2023 21:05:33] Checking rm_gossip_test_1.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_gossip_test_1/rm_gossip_test_1.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_gossip_test_1/rm_gossip_test_1.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Rooms" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_gossip_test_1/rm_gossip_test_1.yy"
+[02-09-2023 21:05:33] Found Room: rm_gossip_test_1
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_Launch
+[02-09-2023 21:05:33] Checking rm_Launch.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_Launch/rm_Launch.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_Launch/rm_Launch.yy
+[02-09-2023 21:05:33] Par: "folders/Rooms" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/rooms/rm_Launch/rm_Launch.yy"
+[02-09-2023 21:05:33] Found Room: rm_Launch
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts
+[02-09-2023 21:05:33] Checking __string_split
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_split
+[02-09-2023 21:05:33] Checking __string_clean
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_clean
+[02-09-2023 21:05:33] Checking __string_array_to_asset_array
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_array_to_asset_array
+[02-09-2023 21:05:33] Checking __scribble_init
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_init
+[02-09-2023 21:05:33] Checking __scribble_generate_model
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_generate_model
+[02-09-2023 21:05:33] Checking __scribble_gc_collect
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_gc_collect
+[02-09-2023 21:05:33] Checking __scribble_config_macros
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_macros
+[02-09-2023 21:05:33] Checking __scribble_config_default_template
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_default_template
+[02-09-2023 21:05:33] Checking __scribble_config_colours
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_colours
+[02-09-2023 21:05:33] Checking __scribble_class_vertex_buffer
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_vertex_buffer
+[02-09-2023 21:05:33] Checking __scribble_class_page
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_page
+[02-09-2023 21:05:33] Checking __scribble_class_null_model
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_model
+[02-09-2023 21:05:33] Checking __scribble_class_null_element
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_element
+[02-09-2023 21:05:33] Checking __scribble_class_model
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_model
+[02-09-2023 21:05:33] Checking __scribble_class_line
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_line
+[02-09-2023 21:05:33] Checking __scribble_class_font
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_font
+[02-09-2023 21:05:33] Checking __scribble_class_element
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_element
+[02-09-2023 21:05:33] Checking __lerp_snap
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__lerp_snap
+[02-09-2023 21:05:33] Checking __global_object_depths
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__global_object_depths
+[02-09-2023 21:05:33] Checking __bracket
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__bracket
+[02-09-2023 21:05:33] Checking _MACROs
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/_MACROs
+[02-09-2023 21:05:33] Checking transition
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/transition
+[02-09-2023 21:05:33] Checking scr_slice_array
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_slice_array
+[02-09-2023 21:05:33] Checking scr_kill_infotext
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_kill_infotext
+[02-09-2023 21:05:33] Checking scr_draw_text_border
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_text_border
+[02-09-2023 21:05:33] Checking scr_draw_dropshadow
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_dropshadow
+[02-09-2023 21:05:33] Checking scr_create_NPCtext
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_NPCtext
+[02-09-2023 21:05:33] Checking scr_create_infotext
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_infotext
+[02-09-2023 21:05:33] Checking scr_create_afterimage
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_afterimage
+[02-09-2023 21:05:33] Checking scr_approach
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_approach
+[02-09-2023 21:05:33] Checking scribble_typewriter_add_event
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_event
+[02-09-2023 21:05:33] Checking scribble_typewriter_add_character_delay
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_character_delay
+[02-09-2023 21:05:33] Checking scribble_rgb_to_bgr
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_rgb_to_bgr
+[02-09-2023 21:05:33] Checking scribble_glyph_set
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_set
+[02-09-2023 21:05:33] Checking scribble_glyph_get
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_get
+[02-09-2023 21:05:33] Checking scribble_font_set_style_family
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_style_family
+[02-09-2023 21:05:33] Checking scribble_font_set_default
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_default
+[02-09-2023 21:05:33] Checking scribble_font_scale
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_scale
+[02-09-2023 21:05:33] Checking scribble_font_has_character
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_has_character
+[02-09-2023 21:05:33] Checking scribble_font_combine
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_combine
+[02-09-2023 21:05:33] Checking scribble_font_bake_shader
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_shader
+[02-09-2023 21:05:33] Checking scribble_font_bake_outline
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_outline
+[02-09-2023 21:05:33] Checking scribble_font_add_msdf
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_msdf
+[02-09-2023 21:05:33] Checking scribble_font_add_from_sprite
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_from_sprite
+[02-09-2023 21:05:33] Checking scribble_font_add_all
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_all
+[02-09-2023 21:05:33] Checking scribble_font_add
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add
+[02-09-2023 21:05:33] Checking scribble_flush_everything
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_flush_everything
+[02-09-2023 21:05:33] Checking scribble
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble
+[02-09-2023 21:05:33] Checking object_get_depth
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/object_get_depth
+[02-09-2023 21:05:33] Checking instance_create
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/instance_create
+[02-09-2023 21:05:33] Checking gossip_transition_out
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_out
+[02-09-2023 21:05:33] Checking gossip_transition_in
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_in
+[02-09-2023 21:05:33] Checking gossip_start
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_start
+[02-09-2023 21:05:33] Checking gossip_sheet_index_to_name
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_sheet_index_to_name
+[02-09-2023 21:05:33] Checking gossip_set_style
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_set_style
+[02-09-2023 21:05:33] Checking gossip_select_choice
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_select_choice
+[02-09-2023 21:05:33] Checking gossip_scan_dialogue_sheets
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheets
+[02-09-2023 21:05:33] Checking gossip_scan_dialogue_sheet
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheet
+[02-09-2023 21:05:33] Checking gossip_reset_textbox_typewriter
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_reset_textbox_typewriter
+[02-09-2023 21:05:33] Checking gossip_process_input
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_process_input
+[02-09-2023 21:05:33] Checking gossip_proceed
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_proceed
+[02-09-2023 21:05:33] Checking gossip_message_changed
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_message_changed
+[02-09-2023 21:05:33] Checking gossip_init_transition
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_init_transition
+[02-09-2023 21:05:33] Checking gossip_get_message
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_get_message
+[02-09-2023 21:05:33] Checking gossip_end
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_end
+[02-09-2023 21:05:33] Checking gossip_draw_window
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_draw_window
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_draw_window
+[02-09-2023 21:05:33] Checking gossip_draw_window.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_draw_window/gossip_draw_window.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_draw_window/gossip_draw_window.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Drawing" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_draw_window/gossip_draw_window.yy"
+[02-09-2023 21:05:33] Found Script: gossip_draw_window
+[02-09-2023 21:05:33] Checking gossip_draw_window.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_end
+[02-09-2023 21:05:33] Checking gossip_end.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_end/gossip_end.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_end/gossip_end.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Dialogue Logic" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_end/gossip_end.yy"
+[02-09-2023 21:05:33] Found Script: gossip_end
+[02-09-2023 21:05:33] Checking gossip_end.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_get_message
+[02-09-2023 21:05:33] Checking gossip_get_message.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_get_message/gossip_get_message.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_get_message/gossip_get_message.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Dialogue Logic" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_get_message/gossip_get_message.yy"
+[02-09-2023 21:05:33] Found Script: gossip_get_message
+[02-09-2023 21:05:33] Checking gossip_get_message.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_init_transition
+[02-09-2023 21:05:33] Checking gossip_init_transition.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_init_transition/gossip_init_transition.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_init_transition/gossip_init_transition.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Transitions" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_init_transition/gossip_init_transition.yy"
+[02-09-2023 21:05:33] Found Script: gossip_init_transition
+[02-09-2023 21:05:33] Checking gossip_init_transition.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_message_changed
+[02-09-2023 21:05:33] Checking gossip_message_changed.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_message_changed/gossip_message_changed.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_message_changed/gossip_message_changed.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Dialogue Logic" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_message_changed/gossip_message_changed.yy"
+[02-09-2023 21:05:33] Found Script: gossip_message_changed
+[02-09-2023 21:05:33] Checking gossip_message_changed.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_proceed
+[02-09-2023 21:05:33] Checking gossip_proceed.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_proceed/gossip_proceed.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_proceed/gossip_proceed.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Dialogue Logic" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_proceed/gossip_proceed.yy"
+[02-09-2023 21:05:33] Found Script: gossip_proceed
+[02-09-2023 21:05:33] Checking gossip_proceed.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_process_input
+[02-09-2023 21:05:33] Checking gossip_process_input.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_process_input/gossip_process_input.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_process_input/gossip_process_input.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Input" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_process_input/gossip_process_input.yy"
+[02-09-2023 21:05:33] Found Script: gossip_process_input
+[02-09-2023 21:05:33] Checking gossip_process_input.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_reset_textbox_typewriter
+[02-09-2023 21:05:33] Checking gossip_reset_textbox_typewriter.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_reset_textbox_typewriter/gossip_reset_textbox_typewriter.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_reset_textbox_typewriter/gossip_reset_textbox_typewriter.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Setup" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_reset_textbox_typewriter/gossip_reset_textbox_typewriter.yy"
+[02-09-2023 21:05:33] Found Script: gossip_reset_textbox_typewriter
+[02-09-2023 21:05:33] Checking gossip_reset_textbox_typewriter.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheet
+[02-09-2023 21:05:33] Checking gossip_scan_dialogue_sheet.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheet/gossip_scan_dialogue_sheet.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheet/gossip_scan_dialogue_sheet.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Setup" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheet/gossip_scan_dialogue_sheet.yy"
+[02-09-2023 21:05:33] Found Script: gossip_scan_dialogue_sheet
+[02-09-2023 21:05:33] Checking gossip_scan_dialogue_sheet.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheets
+[02-09-2023 21:05:33] Checking gossip_scan_dialogue_sheets.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheets/gossip_scan_dialogue_sheets.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheets/gossip_scan_dialogue_sheets.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Configuration - edit these scripts!" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_scan_dialogue_sheets/gossip_scan_dialogue_sheets.yy"
+[02-09-2023 21:05:33] Found Script: gossip_scan_dialogue_sheets
+[02-09-2023 21:05:33] Checking gossip_scan_dialogue_sheets.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_select_choice
+[02-09-2023 21:05:33] Checking gossip_select_choice.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_select_choice/gossip_select_choice.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_select_choice/gossip_select_choice.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Dialogue Logic" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_select_choice/gossip_select_choice.yy"
+[02-09-2023 21:05:33] Found Script: gossip_select_choice
+[02-09-2023 21:05:33] Checking gossip_select_choice.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_set_style
+[02-09-2023 21:05:33] Checking gossip_set_style.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_set_style/gossip_set_style.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_set_style/gossip_set_style.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Configuration - edit these scripts!" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_set_style/gossip_set_style.yy"
+[02-09-2023 21:05:33] Found Script: gossip_set_style
+[02-09-2023 21:05:33] Checking gossip_set_style.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_sheet_index_to_name
+[02-09-2023 21:05:33] Checking gossip_sheet_index_to_name.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_sheet_index_to_name/gossip_sheet_index_to_name.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_sheet_index_to_name/gossip_sheet_index_to_name.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Dialogue Logic" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_sheet_index_to_name/gossip_sheet_index_to_name.yy"
+[02-09-2023 21:05:33] Found Script: gossip_sheet_index_to_name
+[02-09-2023 21:05:33] Checking gossip_sheet_index_to_name.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_start
+[02-09-2023 21:05:33] Checking gossip_start.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_start/gossip_start.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_start/gossip_start.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Dialogue Logic" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_start/gossip_start.yy"
+[02-09-2023 21:05:33] Found Script: gossip_start
+[02-09-2023 21:05:33] Checking gossip_start.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_in
+[02-09-2023 21:05:33] Checking gossip_transition_in.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_in/gossip_transition_in.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_in/gossip_transition_in.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Transitions" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_in/gossip_transition_in.yy"
+[02-09-2023 21:05:33] Found Script: gossip_transition_in
+[02-09-2023 21:05:33] Checking gossip_transition_in.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_out
+[02-09-2023 21:05:33] Checking gossip_transition_out.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_out/gossip_transition_out.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_out/gossip_transition_out.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Transitions" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/gossip_transition_out/gossip_transition_out.yy"
+[02-09-2023 21:05:33] Found Script: gossip_transition_out
+[02-09-2023 21:05:33] Checking gossip_transition_out.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/instance_create
+[02-09-2023 21:05:33] Checking instance_create.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/instance_create/instance_create.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/instance_create/instance_create.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/compatibility/instance" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/instance_create/instance_create.yy"
+[02-09-2023 21:05:33] Found Script: instance_create
+[02-09-2023 21:05:33] Checking instance_create.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/object_get_depth
+[02-09-2023 21:05:33] Checking object_get_depth.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/object_get_depth/object_get_depth.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/object_get_depth/object_get_depth.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/compatibility/object" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/object_get_depth/object_get_depth.yy"
+[02-09-2023 21:05:33] Found Script: object_get_depth
+[02-09-2023 21:05:33] Checking object_get_depth.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble
+[02-09-2023 21:05:33] Checking scribble.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble/scribble.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble/scribble.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble/scribble.yy"
+[02-09-2023 21:05:33] Found Script: scribble
+[02-09-2023 21:05:33] Checking scribble.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_flush_everything
+[02-09-2023 21:05:33] Checking scribble_flush_everything.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_flush_everything/scribble_flush_everything.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_flush_everything/scribble_flush_everything.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Miscellaneous" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_flush_everything/scribble_flush_everything.yy"
+[02-09-2023 21:05:33] Found Script: scribble_flush_everything
+[02-09-2023 21:05:33] Checking scribble_flush_everything.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add
+[02-09-2023 21:05:33] Checking scribble_font_add.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add/scribble_font_add.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add/scribble_font_add.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Setup" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add/scribble_font_add.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_add
+[02-09-2023 21:05:33] Checking scribble_font_add.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_all
+[02-09-2023 21:05:33] Checking scribble_font_add_all.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_all/scribble_font_add_all.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_all/scribble_font_add_all.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Setup" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_all/scribble_font_add_all.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_add_all
+[02-09-2023 21:05:33] Checking scribble_font_add_all.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_from_sprite
+[02-09-2023 21:05:33] Checking scribble_font_add_from_sprite.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_from_sprite/scribble_font_add_from_sprite.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_from_sprite/scribble_font_add_from_sprite.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Setup" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_from_sprite/scribble_font_add_from_sprite.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_add_from_sprite
+[02-09-2023 21:05:33] Checking scribble_font_add_from_sprite.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_msdf
+[02-09-2023 21:05:33] Checking scribble_font_add_msdf.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_msdf/scribble_font_add_msdf.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_msdf/scribble_font_add_msdf.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Setup" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_add_msdf/scribble_font_add_msdf.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_add_msdf
+[02-09-2023 21:05:33] Checking scribble_font_add_msdf.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_outline
+[02-09-2023 21:05:33] Checking scribble_font_bake_outline.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_outline/scribble_font_bake_outline.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_outline/scribble_font_bake_outline.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_outline/scribble_font_bake_outline.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_bake_outline
+[02-09-2023 21:05:33] Checking scribble_font_bake_outline.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_shader
+[02-09-2023 21:05:33] Checking scribble_font_bake_shader.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_shader/scribble_font_bake_shader.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_shader/scribble_font_bake_shader.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_bake_shader/scribble_font_bake_shader.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_bake_shader
+[02-09-2023 21:05:33] Checking scribble_font_bake_shader.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_combine
+[02-09-2023 21:05:33] Checking scribble_font_combine.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_combine/scribble_font_combine.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_combine/scribble_font_combine.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_combine/scribble_font_combine.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_combine
+[02-09-2023 21:05:33] Checking scribble_font_combine.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_has_character
+[02-09-2023 21:05:33] Checking scribble_font_has_character.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_has_character/scribble_font_has_character.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_has_character/scribble_font_has_character.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_has_character/scribble_font_has_character.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_has_character
+[02-09-2023 21:05:33] Checking scribble_font_has_character.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_scale
+[02-09-2023 21:05:33] Checking scribble_font_scale.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_scale/scribble_font_scale.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_scale/scribble_font_scale.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_scale/scribble_font_scale.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_scale
+[02-09-2023 21:05:33] Checking scribble_font_scale.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_default
+[02-09-2023 21:05:33] Checking scribble_font_set_default.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_default/scribble_font_set_default.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_default/scribble_font_set_default.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Setup" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_default/scribble_font_set_default.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_set_default
+[02-09-2023 21:05:33] Checking scribble_font_set_default.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_style_family
+[02-09-2023 21:05:33] Checking scribble_font_set_style_family.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_style_family/scribble_font_set_style_family.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_style_family/scribble_font_set_style_family.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_font_set_style_family/scribble_font_set_style_family.yy"
+[02-09-2023 21:05:33] Found Script: scribble_font_set_style_family
+[02-09-2023 21:05:33] Checking scribble_font_set_style_family.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_get
+[02-09-2023 21:05:33] Checking scribble_glyph_get.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_get/scribble_glyph_get.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_get/scribble_glyph_get.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_get/scribble_glyph_get.yy"
+[02-09-2023 21:05:33] Found Script: scribble_glyph_get
+[02-09-2023 21:05:33] Checking scribble_glyph_get.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_set
+[02-09-2023 21:05:33] Checking scribble_glyph_set.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_set/scribble_glyph_set.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_set/scribble_glyph_set.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Font Modification" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_glyph_set/scribble_glyph_set.yy"
+[02-09-2023 21:05:33] Found Script: scribble_glyph_set
+[02-09-2023 21:05:33] Checking scribble_glyph_set.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_rgb_to_bgr
+[02-09-2023 21:05:33] Checking scribble_rgb_to_bgr.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_rgb_to_bgr/scribble_rgb_to_bgr.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_rgb_to_bgr/scribble_rgb_to_bgr.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Miscellaneous" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_rgb_to_bgr/scribble_rgb_to_bgr.yy"
+[02-09-2023 21:05:33] Found Script: scribble_rgb_to_bgr
+[02-09-2023 21:05:33] Checking scribble_rgb_to_bgr.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_character_delay
+[02-09-2023 21:05:33] Checking scribble_typewriter_add_character_delay.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_character_delay/scribble_typewriter_add_character_delay.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_character_delay/scribble_typewriter_add_character_delay.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Miscellaneous" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_character_delay/scribble_typewriter_add_character_delay.yy"
+[02-09-2023 21:05:33] Found Script: scribble_typewriter_add_character_delay
+[02-09-2023 21:05:33] Checking scribble_typewriter_add_character_delay.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_event
+[02-09-2023 21:05:33] Checking scribble_typewriter_add_event.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_event/scribble_typewriter_add_event.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_event/scribble_typewriter_add_event.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Miscellaneous" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scribble_typewriter_add_event/scribble_typewriter_add_event.yy"
+[02-09-2023 21:05:33] Found Script: scribble_typewriter_add_event
+[02-09-2023 21:05:33] Checking scribble_typewriter_add_event.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_approach
+[02-09-2023 21:05:33] Checking scr_approach.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_approach/scr_approach.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_approach/scr_approach.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Utility" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_approach/scr_approach.yy"
+[02-09-2023 21:05:33] Found Script: scr_approach
+[02-09-2023 21:05:33] Checking scr_approach.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_afterimage
+[02-09-2023 21:05:33] Checking scr_create_afterimage.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_afterimage/scr_create_afterimage.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_afterimage/scr_create_afterimage.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Effect" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_afterimage/scr_create_afterimage.yy"
+[02-09-2023 21:05:33] Found Script: scr_create_afterimage
+[02-09-2023 21:05:33] Checking scr_create_afterimage.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_infotext
+[02-09-2023 21:05:33] Checking scr_create_infotext.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_infotext/scr_create_infotext.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_infotext/scr_create_infotext.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Text" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_infotext/scr_create_infotext.yy"
+[02-09-2023 21:05:33] Found Script: scr_create_infotext
+[02-09-2023 21:05:33] Checking scr_create_infotext.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_NPCtext
+[02-09-2023 21:05:33] Checking scr_create_NPCtext.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_NPCtext/scr_create_NPCtext.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_NPCtext/scr_create_NPCtext.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Text" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_create_NPCtext/scr_create_NPCtext.yy"
+[02-09-2023 21:05:33] Found Script: scr_create_NPCtext
+[02-09-2023 21:05:33] Checking scr_create_NPCtext.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_dropshadow
+[02-09-2023 21:05:33] Checking scr_draw_dropshadow.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_dropshadow/scr_draw_dropshadow.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_dropshadow/scr_draw_dropshadow.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Effect" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_dropshadow/scr_draw_dropshadow.yy"
+[02-09-2023 21:05:33] Found Script: scr_draw_dropshadow
+[02-09-2023 21:05:33] Checking scr_draw_dropshadow.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_text_border
+[02-09-2023 21:05:33] Checking scr_draw_text_border.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_text_border/scr_draw_text_border.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_text_border/scr_draw_text_border.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Text" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_draw_text_border/scr_draw_text_border.yy"
+[02-09-2023 21:05:33] Found Script: scr_draw_text_border
+[02-09-2023 21:05:33] Checking scr_draw_text_border.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_kill_infotext
+[02-09-2023 21:05:33] Checking scr_kill_infotext.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_kill_infotext/scr_kill_infotext.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_kill_infotext/scr_kill_infotext.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Text" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_kill_infotext/scr_kill_infotext.yy"
+[02-09-2023 21:05:33] Found Script: scr_kill_infotext
+[02-09-2023 21:05:33] Checking scr_kill_infotext.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_slice_array
+[02-09-2023 21:05:33] Checking scr_slice_array.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_slice_array/scr_slice_array.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_slice_array/scr_slice_array.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/Utility" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/scr_slice_array/scr_slice_array.yy"
+[02-09-2023 21:05:33] Found Script: scr_slice_array
+[02-09-2023 21:05:33] Checking scr_slice_array.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/transition
+[02-09-2023 21:05:33] Checking transition.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/transition/transition.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/transition/transition.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/transition/transition.yy"
+[02-09-2023 21:05:33] Found Script: transition
+[02-09-2023 21:05:33] Checking transition.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/_MACROs
+[02-09-2023 21:05:33] Checking _MACROs.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/_MACROs/_MACROs.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/_MACROs/_MACROs.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/_MACROs/_MACROs.yy"
+[02-09-2023 21:05:33] Found Script: _MACROs
+[02-09-2023 21:05:33] Checking _MACROs.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__bracket
+[02-09-2023 21:05:33] Checking __bracket.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__bracket/__bracket.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__bracket/__bracket.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Helpers" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__bracket/__bracket.yy"
+[02-09-2023 21:05:33] Found Script: __bracket
+[02-09-2023 21:05:33] Checking __bracket.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__global_object_depths
+[02-09-2023 21:05:33] Checking __global_object_depths.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__global_object_depths/__global_object_depths.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__global_object_depths/__global_object_depths.yy
+[02-09-2023 21:05:33] Par: "folders/Scripts/compatibility" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__global_object_depths/__global_object_depths.yy"
+[02-09-2023 21:05:33] Found Script: __global_object_depths
+[02-09-2023 21:05:33] Checking __global_object_depths.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__lerp_snap
+[02-09-2023 21:05:33] Checking __lerp_snap.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__lerp_snap/__lerp_snap.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__lerp_snap/__lerp_snap.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Helpers" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__lerp_snap/__lerp_snap.yy"
+[02-09-2023 21:05:33] Found Script: __lerp_snap
+[02-09-2023 21:05:33] Checking __lerp_snap.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_element
+[02-09-2023 21:05:33] Checking __scribble_class_element.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_element/__scribble_class_element.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_element/__scribble_class_element.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_element/__scribble_class_element.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_element
+[02-09-2023 21:05:33] Checking __scribble_class_element.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_font
+[02-09-2023 21:05:33] Checking __scribble_class_font.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_font/__scribble_class_font.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_font/__scribble_class_font.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_font/__scribble_class_font.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_font
+[02-09-2023 21:05:33] Checking __scribble_class_font.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_line
+[02-09-2023 21:05:33] Checking __scribble_class_line.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_line/__scribble_class_line.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_line/__scribble_class_line.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_line/__scribble_class_line.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_line
+[02-09-2023 21:05:33] Checking __scribble_class_line.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_model
+[02-09-2023 21:05:33] Checking __scribble_class_model.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_model/__scribble_class_model.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_model/__scribble_class_model.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_model/__scribble_class_model.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_model
+[02-09-2023 21:05:33] Checking __scribble_class_model.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_element
+[02-09-2023 21:05:33] Checking __scribble_class_null_element.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_element/__scribble_class_null_element.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_element/__scribble_class_null_element.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_element/__scribble_class_null_element.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_null_element
+[02-09-2023 21:05:33] Checking __scribble_class_null_element.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_model
+[02-09-2023 21:05:33] Checking __scribble_class_null_model.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_model/__scribble_class_null_model.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_model/__scribble_class_null_model.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_null_model/__scribble_class_null_model.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_null_model
+[02-09-2023 21:05:33] Checking __scribble_class_null_model.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_page
+[02-09-2023 21:05:33] Checking __scribble_class_page.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_page/__scribble_class_page.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_page/__scribble_class_page.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_page/__scribble_class_page.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_page
+[02-09-2023 21:05:33] Checking __scribble_class_page.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_vertex_buffer
+[02-09-2023 21:05:33] Checking __scribble_class_vertex_buffer.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_vertex_buffer/__scribble_class_vertex_buffer.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_vertex_buffer/__scribble_class_vertex_buffer.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_class_vertex_buffer/__scribble_class_vertex_buffer.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_class_vertex_buffer
+[02-09-2023 21:05:33] Checking __scribble_class_vertex_buffer.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_colours
+[02-09-2023 21:05:33] Checking __scribble_config_colours.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_colours/__scribble_config_colours.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_colours/__scribble_config_colours.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Configuration - Please edit these!" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_colours/__scribble_config_colours.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_config_colours
+[02-09-2023 21:05:33] Checking __scribble_config_colours.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_default_template
+[02-09-2023 21:05:33] Checking __scribble_config_default_template.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_default_template/__scribble_config_default_template.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_default_template/__scribble_config_default_template.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Configuration - Please edit these!" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_default_template/__scribble_config_default_template.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_config_default_template
+[02-09-2023 21:05:33] Checking __scribble_config_default_template.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_macros
+[02-09-2023 21:05:33] Checking __scribble_config_macros.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_macros/__scribble_config_macros.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_macros/__scribble_config_macros.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/Configuration - Please edit these!" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_config_macros/__scribble_config_macros.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_config_macros
+[02-09-2023 21:05:33] Checking __scribble_config_macros.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_gc_collect
+[02-09-2023 21:05:33] Checking __scribble_gc_collect.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_gc_collect/__scribble_gc_collect.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_gc_collect/__scribble_gc_collect.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_gc_collect/__scribble_gc_collect.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_gc_collect
+[02-09-2023 21:05:33] Checking __scribble_gc_collect.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_generate_model
+[02-09-2023 21:05:33] Checking __scribble_generate_model.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_generate_model/__scribble_generate_model.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_generate_model/__scribble_generate_model.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_generate_model/__scribble_generate_model.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_generate_model
+[02-09-2023 21:05:33] Checking __scribble_generate_model.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_init
+[02-09-2023 21:05:33] Checking __scribble_init.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_init/__scribble_init.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_init/__scribble_init.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__scribble_init/__scribble_init.yy"
+[02-09-2023 21:05:33] Found Script: __scribble_init
+[02-09-2023 21:05:33] Checking __scribble_init.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_array_to_asset_array
+[02-09-2023 21:05:33] Checking __string_array_to_asset_array.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_array_to_asset_array/__string_array_to_asset_array.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_array_to_asset_array/__string_array_to_asset_array.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Helpers" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_array_to_asset_array/__string_array_to_asset_array.yy"
+[02-09-2023 21:05:33] Found Script: __string_array_to_asset_array
+[02-09-2023 21:05:33] Checking __string_array_to_asset_array.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_clean
+[02-09-2023 21:05:33] Checking __string_clean.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_clean/__string_clean.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_clean/__string_clean.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Helpers" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_clean/__string_clean.yy"
+[02-09-2023 21:05:33] Found Script: __string_clean
+[02-09-2023 21:05:33] Checking __string_clean.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_split
+[02-09-2023 21:05:33] Checking __string_split.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_split/__string_split.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_split/__string_split.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scripts/Helpers" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/scripts/__string_split/__string_split.yy"
+[02-09-2023 21:05:33] Found Script: __string_split
+[02-09-2023 21:05:33] Checking __string_split.gml
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sequences
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders
+[02-09-2023 21:05:33] Checking __shd_scribble_msdf
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_msdf
+[02-09-2023 21:05:33] Checking __shd_scribble_bake_outline
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_bake_outline
+[02-09-2023 21:05:33] Checking __shd_scribble
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble
+[02-09-2023 21:05:33] Checking __shd_scribble.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble/__shd_scribble.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble/__shd_scribble.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble/__shd_scribble.yy"
+[02-09-2023 21:05:33] Found Shader: __shd_scribble
+[02-09-2023 21:05:33] Checking __shd_scribble.vsh
+[02-09-2023 21:05:33] Checking __shd_scribble.fsh
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_bake_outline
+[02-09-2023 21:05:33] Checking __shd_scribble_bake_outline.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_bake_outline/__shd_scribble_bake_outline.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_bake_outline/__shd_scribble_bake_outline.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_bake_outline/__shd_scribble_bake_outline.yy"
+[02-09-2023 21:05:33] Found Shader: __shd_scribble_bake_outline
+[02-09-2023 21:05:33] Checking __shd_scribble_bake_outline.vsh
+[02-09-2023 21:05:33] Checking __shd_scribble_bake_outline.fsh
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_msdf
+[02-09-2023 21:05:33] Checking __shd_scribble_msdf.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_msdf/__shd_scribble_msdf.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_msdf/__shd_scribble_msdf.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Scribble/(System - don't call these functions)" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/shaders/__shd_scribble_msdf/__shd_scribble_msdf.yy"
+[02-09-2023 21:05:33] Found Shader: __shd_scribble_msdf
+[02-09-2023 21:05:33] Checking __shd_scribble_msdf.vsh
+[02-09-2023 21:05:33] Checking __shd_scribble_msdf.fsh
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sounds
+[02-09-2023 21:05:33] Checking snd_gossip_tw_1
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sounds/snd_gossip_tw_1
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sounds/snd_gossip_tw_1
+[02-09-2023 21:05:33] Checking snd_gossip_tw_1.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sounds/snd_gossip_tw_1/snd_gossip_tw_1.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sounds/snd_gossip_tw_1/snd_gossip_tw_1.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Sounds" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sounds/snd_gossip_tw_1/snd_gossip_tw_1.yy"
+[02-09-2023 21:05:33] Found Sound: snd_gossip_tw_1
+[02-09-2023 21:05:33] Checking snd_gossip_tw_1.wav
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites
+[02-09-2023 21:05:33] Checking spr_transition_square
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square
+[02-09-2023 21:05:33] Checking spr_transition_diamond
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond
+[02-09-2023 21:05:33] Checking spr_transition_circle
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle
+[02-09-2023 21:05:33] Checking spr_Solid
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid
+[02-09-2023 21:05:33] Checking spr_Player_Walk
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk
+[02-09-2023 21:05:33] Checking spr_Player_Idle
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle
+[02-09-2023 21:05:33] Checking spr_NPCSolid
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid
+[02-09-2023 21:05:33] Checking spr_gossip_textbox_themes
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes
+[02-09-2023 21:05:33] Checking spr_gossip_proceed_arrow
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow
+[02-09-2023 21:05:33] Checking spr_gossip_mascot_neutral
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral
+[02-09-2023 21:05:33] Checking spr_gossip_mascot_happy
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy
+[02-09-2023 21:05:33] Checking spr_gossip_choice_hand
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand
+[02-09-2023 21:05:33] Checking spr_Gordon
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon
+[02-09-2023 21:05:33] Checking spr_Bounds
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds
+[02-09-2023 21:05:33] Checking background0
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0/layers
+[02-09-2023 21:05:33] Checking background0.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0/background0.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0/background0.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites/tilesets" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0/background0.yy"
+[02-09-2023 21:05:33] Found Sprite: background0
+[02-09-2023 21:05:33] Checking a7185d68-1baf-41cb-8a1c-f08a6b27cc53.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0/layers
+[02-09-2023 21:05:33] Checking a7185d68-1baf-41cb-8a1c-f08a6b27cc53
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0/layers/a7185d68-1baf-41cb-8a1c-f08a6b27cc53
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/background0/layers/a7185d68-1baf-41cb-8a1c-f08a6b27cc53
+[02-09-2023 21:05:33] Checking 143e4ff5-e8e2-4687-9502-7d8463a2f215.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds
+[02-09-2023 21:05:33] Checking spr_Bounds.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds/spr_Bounds.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds/spr_Bounds.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds/spr_Bounds.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_Bounds
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds/layers
+[02-09-2023 21:05:33] Checking 4211ef76-35de-4e57-9f6b-3a4b2286f1fe.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds/layers
+[02-09-2023 21:05:33] Checking 4211ef76-35de-4e57-9f6b-3a4b2286f1fe
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds/layers/4211ef76-35de-4e57-9f6b-3a4b2286f1fe
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Bounds/layers/4211ef76-35de-4e57-9f6b-3a4b2286f1fe
+[02-09-2023 21:05:33] Checking 18abe8f4-1dd5-4f0d-bc2c-fc4f81bc3c57.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon
+[02-09-2023 21:05:33] Checking spr_Gordon.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon/spr_Gordon.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon/spr_Gordon.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites/Debug" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon/spr_Gordon.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_Gordon
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon/layers
+[02-09-2023 21:05:33] Checking 6091dbe2-9721-479a-a5b1-1529376449b5.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon/layers
+[02-09-2023 21:05:33] Checking 6091dbe2-9721-479a-a5b1-1529376449b5
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon/layers/6091dbe2-9721-479a-a5b1-1529376449b5
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Gordon/layers/6091dbe2-9721-479a-a5b1-1529376449b5
+[02-09-2023 21:05:33] Checking 15ec3a72-806a-4ca8-978c-584008cb5a08.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand
+[02-09-2023 21:05:33] Checking spr_gossip_choice_hand.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand/spr_gossip_choice_hand.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand/spr_gossip_choice_hand.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Sprites" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand/spr_gossip_choice_hand.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_gossip_choice_hand
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand/layers
+[02-09-2023 21:05:33] Checking 2643ad52-f403-419b-9b27-8930831a4482.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand/layers
+[02-09-2023 21:05:33] Checking 2643ad52-f403-419b-9b27-8930831a4482
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand/layers/2643ad52-f403-419b-9b27-8930831a4482
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_choice_hand/layers/2643ad52-f403-419b-9b27-8930831a4482
+[02-09-2023 21:05:33] Checking d533e897-3a14-4df8-bb68-5fc9ae2fb4a7.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy
+[02-09-2023 21:05:33] Checking spr_gossip_mascot_happy.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy/spr_gossip_mascot_happy.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy/spr_gossip_mascot_happy.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Sprites/Portraits" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy/spr_gossip_mascot_happy.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_gossip_mascot_happy
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy/layers
+[02-09-2023 21:05:33] Checking 9cbc19e8-3d30-4ba2-b94a-5363e48443cb.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy/layers
+[02-09-2023 21:05:33] Checking 9cbc19e8-3d30-4ba2-b94a-5363e48443cb
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy/layers/9cbc19e8-3d30-4ba2-b94a-5363e48443cb
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_happy/layers/9cbc19e8-3d30-4ba2-b94a-5363e48443cb
+[02-09-2023 21:05:33] Checking c2aaece2-71d6-41f7-bfc4-e9aed4b18759.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral
+[02-09-2023 21:05:33] Checking spr_gossip_mascot_neutral.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral/spr_gossip_mascot_neutral.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral/spr_gossip_mascot_neutral.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Sprites/Portraits" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral/spr_gossip_mascot_neutral.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_gossip_mascot_neutral
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral/layers
+[02-09-2023 21:05:33] Checking 9cbc19e8-3d30-4ba2-b94a-5363e48443cb.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral/layers
+[02-09-2023 21:05:33] Checking 9cbc19e8-3d30-4ba2-b94a-5363e48443cb
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral/layers/9cbc19e8-3d30-4ba2-b94a-5363e48443cb
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_mascot_neutral/layers/9cbc19e8-3d30-4ba2-b94a-5363e48443cb
+[02-09-2023 21:05:33] Checking c2aaece2-71d6-41f7-bfc4-e9aed4b18759.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow
+[02-09-2023 21:05:33] Checking spr_gossip_proceed_arrow.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/spr_gossip_proceed_arrow.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/spr_gossip_proceed_arrow.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Sprites" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/spr_gossip_proceed_arrow.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_gossip_proceed_arrow
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/layers
+[02-09-2023 21:05:33] Checking 34c1c195-3397-4898-84bf-3dc69c4df07e.png
+[02-09-2023 21:05:33] Checking 05386f22-9046-486b-9860-583d2bf25792.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/layers
+[02-09-2023 21:05:33] Checking 34c1c195-3397-4898-84bf-3dc69c4df07e
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/layers/34c1c195-3397-4898-84bf-3dc69c4df07e
+[02-09-2023 21:05:33] Checking 05386f22-9046-486b-9860-583d2bf25792
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/layers/05386f22-9046-486b-9860-583d2bf25792
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/layers/05386f22-9046-486b-9860-583d2bf25792
+[02-09-2023 21:05:33] Checking 661f0966-cd86-478e-a9fa-4e509c7d4be1.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_proceed_arrow/layers/34c1c195-3397-4898-84bf-3dc69c4df07e
+[02-09-2023 21:05:33] Checking 661f0966-cd86-478e-a9fa-4e509c7d4be1.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes
+[02-09-2023 21:05:33] Checking spr_gossip_textbox_themes.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/spr_gossip_textbox_themes.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/spr_gossip_textbox_themes.yy
+[02-09-2023 21:05:33] Par: "folders/Gossip/Sprites" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/spr_gossip_textbox_themes.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_gossip_textbox_themes
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers
+[02-09-2023 21:05:33] Checking b873037c-da1e-4333-b921-37666ba30820.png
+[02-09-2023 21:05:33] Checking b197620b-50d5-47fc-bf59-30f99b8b4bf1.png
+[02-09-2023 21:05:33] Checking 959a9487-5de7-457f-9ee7-3c34781f2c5f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers
+[02-09-2023 21:05:33] Checking b873037c-da1e-4333-b921-37666ba30820
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers/b873037c-da1e-4333-b921-37666ba30820
+[02-09-2023 21:05:33] Checking b197620b-50d5-47fc-bf59-30f99b8b4bf1
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers/b197620b-50d5-47fc-bf59-30f99b8b4bf1
+[02-09-2023 21:05:33] Checking 959a9487-5de7-457f-9ee7-3c34781f2c5f
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers/959a9487-5de7-457f-9ee7-3c34781f2c5f
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers/959a9487-5de7-457f-9ee7-3c34781f2c5f
+[02-09-2023 21:05:33] Checking 45c07069-0ef8-4edf-a888-0c4022d86000.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers/b197620b-50d5-47fc-bf59-30f99b8b4bf1
+[02-09-2023 21:05:33] Checking 45c07069-0ef8-4edf-a888-0c4022d86000.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_gossip_textbox_themes/layers/b873037c-da1e-4333-b921-37666ba30820
+[02-09-2023 21:05:33] Checking 45c07069-0ef8-4edf-a888-0c4022d86000.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid
+[02-09-2023 21:05:33] Checking spr_NPCSolid.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid/spr_NPCSolid.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid/spr_NPCSolid.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid/spr_NPCSolid.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_NPCSolid
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid/layers
+[02-09-2023 21:05:33] Checking 12abe1d1-e197-47c4-9bc7-b1ae722c23b7.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid/layers
+[02-09-2023 21:05:33] Checking 12abe1d1-e197-47c4-9bc7-b1ae722c23b7
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid/layers/12abe1d1-e197-47c4-9bc7-b1ae722c23b7
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_NPCSolid/layers/12abe1d1-e197-47c4-9bc7-b1ae722c23b7
+[02-09-2023 21:05:33] Checking 8ea2d809-b4cf-41c4-88f4-21504deec70a.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle
+[02-09-2023 21:05:33] Checking spr_Player_Idle.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/spr_Player_Idle.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/spr_Player_Idle.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites/Player" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/spr_Player_Idle.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_Player_Idle
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers
+[02-09-2023 21:05:33] Checking f7085aaf-fc3a-40e3-a1cd-248dac10a16c.png
+[02-09-2023 21:05:33] Checking de534861-3b88-4949-8265-6f11af5d9063.png
+[02-09-2023 21:05:33] Checking d2217c50-0921-4e2d-b66f-69aa29e41c12.png
+[02-09-2023 21:05:33] Checking 9cb9bfa0-4d9e-47ba-b84c-3ca385fb80e6.png
+[02-09-2023 21:05:33] Checking 8ad6d849-8f49-4631-b0de-75765d56d9af.png
+[02-09-2023 21:05:33] Checking 7f9f8308-9918-423a-a775-998be68993e9.png
+[02-09-2023 21:05:33] Checking 66950e9b-0131-4859-9bfd-0709df60a30b.png
+[02-09-2023 21:05:33] Checking 0a506794-dc81-4326-b901-828a7abed974.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers
+[02-09-2023 21:05:33] Checking f7085aaf-fc3a-40e3-a1cd-248dac10a16c
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/f7085aaf-fc3a-40e3-a1cd-248dac10a16c
+[02-09-2023 21:05:33] Checking de534861-3b88-4949-8265-6f11af5d9063
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/de534861-3b88-4949-8265-6f11af5d9063
+[02-09-2023 21:05:33] Checking d2217c50-0921-4e2d-b66f-69aa29e41c12
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/d2217c50-0921-4e2d-b66f-69aa29e41c12
+[02-09-2023 21:05:33] Checking 9cb9bfa0-4d9e-47ba-b84c-3ca385fb80e6
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/9cb9bfa0-4d9e-47ba-b84c-3ca385fb80e6
+[02-09-2023 21:05:33] Checking 8ad6d849-8f49-4631-b0de-75765d56d9af
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/8ad6d849-8f49-4631-b0de-75765d56d9af
+[02-09-2023 21:05:33] Checking 7f9f8308-9918-423a-a775-998be68993e9
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/7f9f8308-9918-423a-a775-998be68993e9
+[02-09-2023 21:05:33] Checking 66950e9b-0131-4859-9bfd-0709df60a30b
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/66950e9b-0131-4859-9bfd-0709df60a30b
+[02-09-2023 21:05:33] Checking 0a506794-dc81-4326-b901-828a7abed974
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/0a506794-dc81-4326-b901-828a7abed974
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/0a506794-dc81-4326-b901-828a7abed974
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/66950e9b-0131-4859-9bfd-0709df60a30b
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/7f9f8308-9918-423a-a775-998be68993e9
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/8ad6d849-8f49-4631-b0de-75765d56d9af
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/9cb9bfa0-4d9e-47ba-b84c-3ca385fb80e6
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/d2217c50-0921-4e2d-b66f-69aa29e41c12
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/de534861-3b88-4949-8265-6f11af5d9063
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Idle/layers/f7085aaf-fc3a-40e3-a1cd-248dac10a16c
+[02-09-2023 21:05:33] Checking 49f48b83-afe5-4602-b54a-3fbe9f810eb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk
+[02-09-2023 21:05:33] Checking spr_Player_Walk.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/spr_Player_Walk.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/spr_Player_Walk.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites/Player" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/spr_Player_Walk.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_Player_Walk
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers
+[02-09-2023 21:05:33] Checking fc20a67c-47ad-4510-bad5-f935783ddc6b.png
+[02-09-2023 21:05:33] Checking f44cdf4c-b22c-42cd-a89e-d474bc37f42d.png
+[02-09-2023 21:05:33] Checking e38ee3c5-ab0f-42e9-abbc-eb9c5f6da7a6.png
+[02-09-2023 21:05:33] Checking ce585e94-c4b1-4e1e-91e7-a2ac03a76949.png
+[02-09-2023 21:05:33] Checking c9ff6471-7c8b-4d18-869a-73dea7685c22.png
+[02-09-2023 21:05:33] Checking c0335c1f-dbcb-4b30-8aa6-d0d538152802.png
+[02-09-2023 21:05:33] Checking 773cde56-e9b6-46c9-adf8-dfb05f3a955d.png
+[02-09-2023 21:05:33] Checking 711ec26d-f637-4c16-9bd7-09816b150d36.png
+[02-09-2023 21:05:33] Checking 6e93caf4-ba5f-4df5-9195-b61b30e581bd.png
+[02-09-2023 21:05:33] Checking 5543be53-cff1-4bd6-9447-8a84ca619530.png
+[02-09-2023 21:05:33] Checking 08576bef-cacd-4925-9271-f99c7789e00c.png
+[02-09-2023 21:05:33] Checking 075f55cc-28ab-40b8-a62f-2d48fff8ce40.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers
+[02-09-2023 21:05:33] Checking fc20a67c-47ad-4510-bad5-f935783ddc6b
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/fc20a67c-47ad-4510-bad5-f935783ddc6b
+[02-09-2023 21:05:33] Checking f44cdf4c-b22c-42cd-a89e-d474bc37f42d
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/f44cdf4c-b22c-42cd-a89e-d474bc37f42d
+[02-09-2023 21:05:33] Checking e38ee3c5-ab0f-42e9-abbc-eb9c5f6da7a6
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/e38ee3c5-ab0f-42e9-abbc-eb9c5f6da7a6
+[02-09-2023 21:05:33] Checking ce585e94-c4b1-4e1e-91e7-a2ac03a76949
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/ce585e94-c4b1-4e1e-91e7-a2ac03a76949
+[02-09-2023 21:05:33] Checking c9ff6471-7c8b-4d18-869a-73dea7685c22
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/c9ff6471-7c8b-4d18-869a-73dea7685c22
+[02-09-2023 21:05:33] Checking c0335c1f-dbcb-4b30-8aa6-d0d538152802
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/c0335c1f-dbcb-4b30-8aa6-d0d538152802
+[02-09-2023 21:05:33] Checking 773cde56-e9b6-46c9-adf8-dfb05f3a955d
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/773cde56-e9b6-46c9-adf8-dfb05f3a955d
+[02-09-2023 21:05:33] Checking 711ec26d-f637-4c16-9bd7-09816b150d36
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/711ec26d-f637-4c16-9bd7-09816b150d36
+[02-09-2023 21:05:33] Checking 6e93caf4-ba5f-4df5-9195-b61b30e581bd
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/6e93caf4-ba5f-4df5-9195-b61b30e581bd
+[02-09-2023 21:05:33] Checking 5543be53-cff1-4bd6-9447-8a84ca619530
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/5543be53-cff1-4bd6-9447-8a84ca619530
+[02-09-2023 21:05:33] Checking 08576bef-cacd-4925-9271-f99c7789e00c
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/08576bef-cacd-4925-9271-f99c7789e00c
+[02-09-2023 21:05:33] Checking 075f55cc-28ab-40b8-a62f-2d48fff8ce40
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/075f55cc-28ab-40b8-a62f-2d48fff8ce40
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/075f55cc-28ab-40b8-a62f-2d48fff8ce40
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/08576bef-cacd-4925-9271-f99c7789e00c
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/5543be53-cff1-4bd6-9447-8a84ca619530
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/6e93caf4-ba5f-4df5-9195-b61b30e581bd
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/711ec26d-f637-4c16-9bd7-09816b150d36
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/773cde56-e9b6-46c9-adf8-dfb05f3a955d
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/c0335c1f-dbcb-4b30-8aa6-d0d538152802
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/c9ff6471-7c8b-4d18-869a-73dea7685c22
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/ce585e94-c4b1-4e1e-91e7-a2ac03a76949
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/e38ee3c5-ab0f-42e9-abbc-eb9c5f6da7a6
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/f44cdf4c-b22c-42cd-a89e-d474bc37f42d
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Player_Walk/layers/fc20a67c-47ad-4510-bad5-f935783ddc6b
+[02-09-2023 21:05:33] Checking 828c99a7-d0da-4522-8a9b-e8404be2d15d.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid
+[02-09-2023 21:05:33] Checking spr_Solid.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid/spr_Solid.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid/spr_Solid.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid/spr_Solid.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_Solid
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid/layers
+[02-09-2023 21:05:33] Checking 12abe1d1-e197-47c4-9bc7-b1ae722c23b7.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid/layers
+[02-09-2023 21:05:33] Checking 12abe1d1-e197-47c4-9bc7-b1ae722c23b7
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid/layers/12abe1d1-e197-47c4-9bc7-b1ae722c23b7
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_Solid/layers/12abe1d1-e197-47c4-9bc7-b1ae722c23b7
+[02-09-2023 21:05:33] Checking 8ea2d809-b4cf-41c4-88f4-21504deec70a.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle
+[02-09-2023 21:05:33] Checking spr_transition_circle.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/spr_transition_circle.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/spr_transition_circle.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites/Transitions" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/spr_transition_circle.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_transition_circle
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers
+[02-09-2023 21:05:33] Checking f018b446-0f24-4ec0-8ec5-3943bae59c37.png
+[02-09-2023 21:05:33] Checking e53b79cd-0587-4c3c-bb13-850cd87273f9.png
+[02-09-2023 21:05:33] Checking bb68bbc1-a2bc-4cde-ad7a-20f8008310cc.png
+[02-09-2023 21:05:33] Checking a49111f7-b5e7-41ce-b9c9-663cf0ec30c9.png
+[02-09-2023 21:05:33] Checking 97eda611-ee93-4db1-bd04-99d3c40929e1.png
+[02-09-2023 21:05:33] Checking 6659e957-bc7b-44fc-8147-b4a0fdf8f247.png
+[02-09-2023 21:05:33] Checking 60292a16-b074-4648-8188-013869b5cab1.png
+[02-09-2023 21:05:33] Checking 251dc6f9-f2ce-42c3-a75b-adc537c35dde.png
+[02-09-2023 21:05:33] Checking 027faaaa-300f-4813-b287-503679757fb9.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers
+[02-09-2023 21:05:33] Checking f018b446-0f24-4ec0-8ec5-3943bae59c37
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/f018b446-0f24-4ec0-8ec5-3943bae59c37
+[02-09-2023 21:05:33] Checking e53b79cd-0587-4c3c-bb13-850cd87273f9
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/e53b79cd-0587-4c3c-bb13-850cd87273f9
+[02-09-2023 21:05:33] Checking bb68bbc1-a2bc-4cde-ad7a-20f8008310cc
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/bb68bbc1-a2bc-4cde-ad7a-20f8008310cc
+[02-09-2023 21:05:33] Checking a49111f7-b5e7-41ce-b9c9-663cf0ec30c9
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/a49111f7-b5e7-41ce-b9c9-663cf0ec30c9
+[02-09-2023 21:05:33] Checking 97eda611-ee93-4db1-bd04-99d3c40929e1
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/97eda611-ee93-4db1-bd04-99d3c40929e1
+[02-09-2023 21:05:33] Checking 6659e957-bc7b-44fc-8147-b4a0fdf8f247
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/6659e957-bc7b-44fc-8147-b4a0fdf8f247
+[02-09-2023 21:05:33] Checking 60292a16-b074-4648-8188-013869b5cab1
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/60292a16-b074-4648-8188-013869b5cab1
+[02-09-2023 21:05:33] Checking 251dc6f9-f2ce-42c3-a75b-adc537c35dde
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/251dc6f9-f2ce-42c3-a75b-adc537c35dde
+[02-09-2023 21:05:33] Checking 027faaaa-300f-4813-b287-503679757fb9
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/027faaaa-300f-4813-b287-503679757fb9
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/027faaaa-300f-4813-b287-503679757fb9
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/251dc6f9-f2ce-42c3-a75b-adc537c35dde
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/60292a16-b074-4648-8188-013869b5cab1
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/6659e957-bc7b-44fc-8147-b4a0fdf8f247
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/97eda611-ee93-4db1-bd04-99d3c40929e1
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/a49111f7-b5e7-41ce-b9c9-663cf0ec30c9
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/bb68bbc1-a2bc-4cde-ad7a-20f8008310cc
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/e53b79cd-0587-4c3c-bb13-850cd87273f9
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_circle/layers/f018b446-0f24-4ec0-8ec5-3943bae59c37
+[02-09-2023 21:05:33] Checking b56d7cd2-db47-42ad-8efb-228a7d66e758.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond
+[02-09-2023 21:05:33] Checking spr_transition_diamond.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/spr_transition_diamond.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/spr_transition_diamond.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites/Transitions" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/spr_transition_diamond.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_transition_diamond
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers
+[02-09-2023 21:05:33] Checking c3cb8557-56b9-45be-b34d-4ba473115304.png
+[02-09-2023 21:05:33] Checking c332deed-f85f-4973-8f10-deed5edc92fc.png
+[02-09-2023 21:05:33] Checking bc92fd4e-a25f-43aa-85ac-799d3d83b65c.png
+[02-09-2023 21:05:33] Checking bba0e0cf-d4a0-4bb6-81a2-cc7ec5db652d.png
+[02-09-2023 21:05:33] Checking 4eaf450a-a2b3-41ce-8350-2410e56f8ac1.png
+[02-09-2023 21:05:33] Checking 26d648e0-72c4-4d0d-bc4a-0715b17da64f.png
+[02-09-2023 21:05:33] Checking 189bdf19-54b4-479b-ab8c-aec051936e7e.png
+[02-09-2023 21:05:33] Checking 0deb8ff8-b312-49f9-a86f-a5d38ccc4e8e.png
+[02-09-2023 21:05:33] Checking 03fee216-4bf7-4b7e-92d6-37e72fc83326.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers
+[02-09-2023 21:05:33] Checking c3cb8557-56b9-45be-b34d-4ba473115304
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/c3cb8557-56b9-45be-b34d-4ba473115304
+[02-09-2023 21:05:33] Checking c332deed-f85f-4973-8f10-deed5edc92fc
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/c332deed-f85f-4973-8f10-deed5edc92fc
+[02-09-2023 21:05:33] Checking bc92fd4e-a25f-43aa-85ac-799d3d83b65c
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/bc92fd4e-a25f-43aa-85ac-799d3d83b65c
+[02-09-2023 21:05:33] Checking bba0e0cf-d4a0-4bb6-81a2-cc7ec5db652d
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/bba0e0cf-d4a0-4bb6-81a2-cc7ec5db652d
+[02-09-2023 21:05:33] Checking 4eaf450a-a2b3-41ce-8350-2410e56f8ac1
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/4eaf450a-a2b3-41ce-8350-2410e56f8ac1
+[02-09-2023 21:05:33] Checking 26d648e0-72c4-4d0d-bc4a-0715b17da64f
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/26d648e0-72c4-4d0d-bc4a-0715b17da64f
+[02-09-2023 21:05:33] Checking 189bdf19-54b4-479b-ab8c-aec051936e7e
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/189bdf19-54b4-479b-ab8c-aec051936e7e
+[02-09-2023 21:05:33] Checking 0deb8ff8-b312-49f9-a86f-a5d38ccc4e8e
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/0deb8ff8-b312-49f9-a86f-a5d38ccc4e8e
+[02-09-2023 21:05:33] Checking 03fee216-4bf7-4b7e-92d6-37e72fc83326
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/03fee216-4bf7-4b7e-92d6-37e72fc83326
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/03fee216-4bf7-4b7e-92d6-37e72fc83326
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/0deb8ff8-b312-49f9-a86f-a5d38ccc4e8e
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/189bdf19-54b4-479b-ab8c-aec051936e7e
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/26d648e0-72c4-4d0d-bc4a-0715b17da64f
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/4eaf450a-a2b3-41ce-8350-2410e56f8ac1
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/bba0e0cf-d4a0-4bb6-81a2-cc7ec5db652d
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/bc92fd4e-a25f-43aa-85ac-799d3d83b65c
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/c332deed-f85f-4973-8f10-deed5edc92fc
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_diamond/layers/c3cb8557-56b9-45be-b34d-4ba473115304
+[02-09-2023 21:05:33] Checking c75cbfc4-cffb-40eb-a0c4-53b1ad7de22f.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square
+[02-09-2023 21:05:33] Checking spr_transition_square.yy
+[02-09-2023 21:05:33] Parsing C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/spr_transition_square.yy
+[02-09-2023 21:05:33] Reading C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/spr_transition_square.yy
+[02-09-2023 21:05:33] Par: "folders/Sprites/Transitions" at dir: "C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/spr_transition_square.yy"
+[02-09-2023 21:05:33] Found Sprite: spr_transition_square
+[02-09-2023 21:05:33] Checking layers
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers
+[02-09-2023 21:05:33] Checking dde84115-863b-43e7-a578-bb648a2cabb9.png
+[02-09-2023 21:05:33] Checking bd623266-fdd9-4c70-899f-35918ca69b4e.png
+[02-09-2023 21:05:33] Checking ab1ba2ca-4b70-41f6-815a-85d43d8e7d8c.png
+[02-09-2023 21:05:33] Checking 8bc5b320-ddf3-40eb-9c7a-ad7ce0bcf7a1.png
+[02-09-2023 21:05:33] Checking 839aa2df-6c3b-4439-8880-575575f2bfec.png
+[02-09-2023 21:05:33] Checking 58bb6a17-1156-46ce-91a2-77e87db46a1f.png
+[02-09-2023 21:05:33] Checking 24fcd518-a58a-4d73-adde-294a02c25405.png
+[02-09-2023 21:05:33] Checking 2279cc70-3ee1-48ba-af52-6658c13303e0.png
+[02-09-2023 21:05:33] Checking 1e6d31c7-0ec2-4333-8362-397ce0c0a67b.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers
+[02-09-2023 21:05:33] Checking dde84115-863b-43e7-a578-bb648a2cabb9
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/dde84115-863b-43e7-a578-bb648a2cabb9
+[02-09-2023 21:05:33] Checking bd623266-fdd9-4c70-899f-35918ca69b4e
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/bd623266-fdd9-4c70-899f-35918ca69b4e
+[02-09-2023 21:05:33] Checking ab1ba2ca-4b70-41f6-815a-85d43d8e7d8c
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/ab1ba2ca-4b70-41f6-815a-85d43d8e7d8c
+[02-09-2023 21:05:33] Checking 8bc5b320-ddf3-40eb-9c7a-ad7ce0bcf7a1
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/8bc5b320-ddf3-40eb-9c7a-ad7ce0bcf7a1
+[02-09-2023 21:05:33] Checking 839aa2df-6c3b-4439-8880-575575f2bfec
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/839aa2df-6c3b-4439-8880-575575f2bfec
+[02-09-2023 21:05:33] Checking 58bb6a17-1156-46ce-91a2-77e87db46a1f
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/58bb6a17-1156-46ce-91a2-77e87db46a1f
+[02-09-2023 21:05:33] Checking 24fcd518-a58a-4d73-adde-294a02c25405
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/24fcd518-a58a-4d73-adde-294a02c25405
+[02-09-2023 21:05:33] Checking 2279cc70-3ee1-48ba-af52-6658c13303e0
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/2279cc70-3ee1-48ba-af52-6658c13303e0
+[02-09-2023 21:05:33] Checking 1e6d31c7-0ec2-4333-8362-397ce0c0a67b
+[02-09-2023 21:05:33] Directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/1e6d31c7-0ec2-4333-8362-397ce0c0a67b
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/1e6d31c7-0ec2-4333-8362-397ce0c0a67b
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/2279cc70-3ee1-48ba-af52-6658c13303e0
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/24fcd518-a58a-4d73-adde-294a02c25405
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/58bb6a17-1156-46ce-91a2-77e87db46a1f
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/839aa2df-6c3b-4439-8880-575575f2bfec
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/8bc5b320-ddf3-40eb-9c7a-ad7ce0bcf7a1
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/ab1ba2ca-4b70-41f6-815a-85d43d8e7d8c
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/bd623266-fdd9-4c70-899f-35918ca69b4e
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/sprites/spr_transition_square/layers/dde84115-863b-43e7-a578-bb648a2cabb9
+[02-09-2023 21:05:33] Checking b6a2c01b-ee7a-4ad4-a854-176e2ef8fa27.png
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/tilesets
+[02-09-2023 21:05:33] Current parent directory: C:/Users/Zaz Dev/Documents/GameMakerStudio2/JADSJam/timelines
+[02-09-2023 21:05:33] Moving files to trash...
+[02-09-2023 21:05:33] Files yeeted successfully!
+[02-09-2023 21:05:33] Generating YYP...
+[02-09-2023 21:05:33] JADSJam.yyp created successfully!

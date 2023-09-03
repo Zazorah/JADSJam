@@ -14,8 +14,10 @@ if (!dashing) {
 	
 	if (keyboard_check(ord("A"))) {
 		hspd = max(-max_speed, hspd - speed_inc);
+		dir_facing = -1;
 	} else if (keyboard_check(ord("D"))) {
 		hspd = min(max_speed, hspd + speed_inc);
+		dir_facing = 1;
 	} else {
 		hspd = scr_approach(hspd, 0, 2);
 	}
@@ -52,6 +54,13 @@ if (!dashing) {
 		if (dashing) {
 			dash_timer = dash_timer_max;
 		}
+	}
+	
+	// Set Walking Animation
+	if (keyboard_check(ord("W")) || keyboard_check(ord("S")) || keyboard_check(ord("A")) || keyboard_check(ord("D"))) {
+		sprite_index = spr_Player_Walk;
+	} else {
+		sprite_index = spr_Player_Idle;
 	}
 } 
 
@@ -98,3 +107,6 @@ if (place_meeting(x, y + vspd, par_Solid)) {
 }
 
 y += vspd;
+
+// Flip Sprite
+face_scale = scr_approach(face_scale, dir_facing, 0.2);

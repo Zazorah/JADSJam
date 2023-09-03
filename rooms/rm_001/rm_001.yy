@@ -175,6 +175,8 @@
     {"name":"inst_7B0E29C3","path":"rooms/rm_001/rm_001.yy",},
     {"name":"inst_2AE8EB03","path":"rooms/rm_001/rm_001.yy",},
     {"name":"inst_301DB615","path":"rooms/rm_001/rm_001.yy",},
+    {"name":"inst_4199DD13","path":"rooms/rm_001/rm_001.yy",},
+    {"name":"inst_1BE83669","path":"rooms/rm_001/rm_001.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -349,6 +351,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7B0E29C3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"par_Solid","path":"objects/par_Solid/par_Solid.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3288.0,"y":936.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2AE8EB03","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"par_Solid","path":"objects/par_Solid/par_Solid.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3360.0,"y":1464.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_301DB615","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"par_Solid","path":"objects/par_Solid/par_Solid.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3360.0,"y":936.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4199DD13","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"par_NPC","path":"objects/par_NPC/par_NPC.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2712.0,"y":1320.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1BE83669","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"par_NPC","path":"objects/par_NPC/par_NPC.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2616.0,"y":1152.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4286545791,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

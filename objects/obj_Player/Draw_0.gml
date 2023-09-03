@@ -1,2 +1,5 @@
-// DEBUG - Draw sprite with weird color to indicate player.
-draw_sprite_ext(sprite_index, image_index, x, y, xscale, yscale, 0, c_white, 1);
+ // Draw Shadow
+ scr_draw_dropshadow();
+
+// Draw Self
+draw_sprite_ext(sprite_index, image_index, x, y, xscale * face_scale, yscale, 0, c_white, 1);
