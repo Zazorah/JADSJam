@@ -1,3 +1,4 @@
+event_inherited();
 
 if (range_scale > 0) {
 	

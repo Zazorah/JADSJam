@@ -1,0 +1,2 @@
+interior = true;
+monsters = [];

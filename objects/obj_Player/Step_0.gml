@@ -53,6 +53,7 @@ if (!dashing) {
 		
 		if (dashing) {
 			dash_timer = dash_timer_max;
+			audio_play_sound(sfx_Dash, 1, false);
 		}
 	}
 	
@@ -71,6 +72,17 @@ else if (dashing) {
 	dash_timer--;
 	if (dash_timer == 0) {
 		dashing = false;
+	}
+}
+
+// Shoot projectiles
+var current_item = obj_Game.inventory[obj_Game.inventory_index];
+if (current_item != 0) {
+	if (current_item.projectile != noone) {
+		if (mouse_check_button_pressed(mb_left)) {
+			
+			scr_use_item(current_item);
+		}
 	}
 }
 

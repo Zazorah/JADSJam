@@ -13,7 +13,10 @@
     "name": "Characters",
     "path": "folders/Objects/Characters.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "par_Character",
+    "path": "objects/par_Character/par_Character.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

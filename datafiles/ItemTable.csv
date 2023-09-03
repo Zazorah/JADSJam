@@ -1,0 +1,2 @@
+Name,Description,Droppable,Cut Result,Projectile,Max Stack,Damage,Air Life,Ground Life,Exploding,Debuff,Buff,Potted Value,Mixed Multiplier
+Knife,Your trusty kitchen knife. A great last line of defence.,false,noone,proj_Direct,1,1,-1,0,false,noone,noone,0,0

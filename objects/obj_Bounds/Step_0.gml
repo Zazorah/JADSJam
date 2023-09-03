@@ -3,3 +3,5 @@ if (place_meeting(x, y, obj_Player)) {
 		obj_Camera.bounds = self;
 	}
 }
+
+// Spawn monsters if we've got em.
