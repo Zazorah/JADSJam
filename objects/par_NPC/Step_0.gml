@@ -20,6 +20,7 @@ if (in_range) {
 	
 	if (textbox != noone) {
 		
+		textbox.next_msg = [];
 		textbox.dead = true;
 		textbox = noone;
 	}

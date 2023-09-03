@@ -24,4 +24,9 @@ else {
     // Typewriter
     msg_index = scr_approach(msg_index, string_length(msg), msg_step);
     display_msg = string_copy(msg, 1, msg_index);
+    
+    if (msg_index % 4 == 0 && msg_index != string_length(msg)) {
+        audio_sound_pitch(sfx_Typewriter, random_range(0.5, 1.5));
+        audio_play_sound(sfx_Typewriter, 1, false);
+    }
 }
