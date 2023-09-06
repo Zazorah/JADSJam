@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Item",
+  "name": "scr_create_item_drop",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

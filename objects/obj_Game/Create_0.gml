@@ -1,4 +1,7 @@
 
+// Globals
+global.flags = ds_map_create();
+
 // Rooms
 play_room = rm_001;
 
@@ -7,22 +10,11 @@ room_goto(play_room);
 
 // Inventory
 inventory = array_create(8);
+
+// Add Knife to Inventory
 inventory[0] = new Item("Knife");   // Add knife to inventory
 inventory[0].projectile = obj_Projectile_Direct;
 inventory_index = 0;
-
-// DEBUG - Adding fake items for inventory testing
-red = new Item();
-red.icon_sprite = spr_Icon_Red;
-inventory[1] = red;
-
-green = new Item();
-green.icon_sprite = spr_Icon_Green;
-inventory[2] = green;
-
-blue = new Item();
-blue.icon_sprite = spr_Icon_Blue;
-inventory[3] = blue;
 
 // State
 timer = 18000;

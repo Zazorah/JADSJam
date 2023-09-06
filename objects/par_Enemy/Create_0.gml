@@ -2,6 +2,9 @@
 // Properties
 hp = 4;
 
+// State
+bounds = false;
+
 // Draw
 xscale = 1; xscale_spd = 0;
 yscale = 1; yscale_spd = 0;
@@ -21,4 +24,8 @@ deal_damage = function(_amt) {
     
     // Flash
     flash_frames += 4;
+	
+	// Play Hit Sound
+	audio_sound_pitch(sfx_Explosion, random_range(0.6, 1.6));
+	audio_play_sound(sfx_Explosion, 0, false);
 }

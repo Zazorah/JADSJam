@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Item",
+  "name": "scr_set_flag",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Items",
-    "path": "folders/Scripts/Items.yy",
+    "name": "Flags",
+    "path": "folders/Scripts/Utility/Flags.yy",
   },
 }

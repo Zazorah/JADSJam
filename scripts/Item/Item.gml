@@ -28,6 +28,8 @@ function Item(_name = "Knife") constructor {
     // Timer
     reload_timer = 0;       // Amount of time before item can be used again.
     reload_timer_cap = 15;  // How many frames before next use is avaialable.
+    
+    quantity = 1;           // Amount of the item there is. Value here is default.
 }
 
 enum Buffs {

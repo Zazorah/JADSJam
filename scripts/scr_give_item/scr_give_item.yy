@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Item",
+  "name": "scr_give_item",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

@@ -4,7 +4,7 @@ function scr_use_item(_item) {
     
     // Parameters
     var bullet_offset_x = 0;
-    var bullet_offset_y = -16;
+    var bullet_offset_y = -8;
     
     if (!is_struct(_item)) {
         return;
@@ -22,6 +22,9 @@ function scr_use_item(_item) {
         _prod.mov_spd = _item.mov_spd;
         _prod.debuff = _item.debuff;
         _prod.sprite_index = _item.bullet_sprite;
+        
+        // Play sound
+        audio_play_sound(sfx_Hit, 0, false);
     }
     
     // Apply buff

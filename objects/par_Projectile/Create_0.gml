@@ -1,6 +1,6 @@
 
 // Weapon Info
-damage = 1;             // How much damage the projectiles do.
+damage = 0;             // How much damage the projectiles do.
 air_life = -1;          // Lifetime in air. -1 is infinite.
 ground_life = 0;        // Lifetime after hitting a wall.
 exploding = false;      // Wehther or not it explodes on death.

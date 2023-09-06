@@ -1,7 +1,6 @@
 
 speed = mov_spd;
 
-
 // Destroy and Deal Damage
 var will_destroy = false;
 var meeting = ds_list_create();

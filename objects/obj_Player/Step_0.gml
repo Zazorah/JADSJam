@@ -86,6 +86,16 @@ if (current_item != 0) {
 	}
 }
 
+// Throw items
+if (current_item != 0) {
+	if (current_item.droppable) {
+		if (keyboard_check_pressed(ord("Q"))) {
+			
+			scr_throw_item(obj_Game.inventory_index);
+		}
+	}
+} 
+
 // Normalize Movement
 var cap = dashing ? max_speed + dash_addition : max_speed;
 var total_spd = hspd * hspd + vspd * vspd;

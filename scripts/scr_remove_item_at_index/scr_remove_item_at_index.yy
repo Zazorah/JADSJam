@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Item",
+  "name": "scr_remove_item_at_index",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
